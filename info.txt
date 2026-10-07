@@ -1,0 +1,27 @@
+TraceDNS is a DNS and infrastructure mapping tool written in Python. (YAY!)
+
+It is designed to help investigate publicly avaliable DNS information about
+domains and understand how their VISIBLE infrastructure is connected.
+
+TraceDNS can be useful for:
+
+- OSINT investigations
+- Security research
+- Domain infrastructure analysis
+- Phishing investigations
+- Understanding mail infrastructure
+- Mapping publicly visible DNS relationships
+- Learning how domains and their infrastructure are connected
+
+TraceDNS is purely a reconnasaince tool, and therefore it does not have any abilities
+that can be considered a grey-area or outright illegal. No port scans, no attempting 
+access where you aren't belonged. That is not what it's used for.
+
+Backstory of TraceDNS:
+
+Pretty simple backstory to be fair, received a 419 scam email and decided to investigate for about 7 hours.
+Didn't really end up finding the person behind it, which also originally wasn't really the goal. However on this
+search I found it so annoying that I had to switch tabs constantly to check new information, and took a long time.
+That is why I decided to make TraceDNS that makes my life a little bit easier. 
+
+// Peace out
