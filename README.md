@@ -1,4 +1,4 @@
-Spent a bunch of time switching between tabs for Domain, A, IP, MX, AAAA Records and such. Got tired of it so decided to make some sort of a OSINT tool 
+<img width="387" height="194" alt="image" src="https://github.com/user-attachments/assets/80508472-1d9f-471e-8644-acd12889fa8a" />Spent a bunch of time switching between tabs for Domain, A, IP, MX, AAAA Records and such. Got tired of it so decided to make some sort of a OSINT tool 
 to do it automatically for me. It is not perfect, and I'm not a perfect coder so if anything is wrong please do reach out.
 
 Email: casperinoferrari@gmail.com
@@ -22,5 +22,7 @@ Installation:
 - Run TraceDNS with (python tracedns.py iloveturtles.com)
 
 View the help section at (python tracedns.py --help)
+
+<img width="387" height="194" alt="image" src="https://github.com/user-attachments/assets/65ead778-5e8d-4b8f-820e-7c7da5904207" />
 
 ########################################################################################
